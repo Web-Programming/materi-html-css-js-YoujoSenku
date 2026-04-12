@@ -1,0 +1,32 @@
+.hero-section {
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('https://picsum.photos/id/1018/1200/400');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding: 100px 0;
+}
+
+.hero-subtitle {
+    font-size: 1.0rem;
+}
+
+.about-img-wrapper {
+    border-radius: 50%;
+    border: 6px solid var(--hijau-muda);
+    box-shadow: 0 8px 40px rgba(45, 122, 45, 0.2);
+    display: inline-block;
+    overflow: hidden;
+}
+
+.about-img {
+  width: 320px;
+  height: 320px;
+  object-fit: cover;
+  display: block;
+}
+
+.text-paragraph {
+    font-size: 1.0rem;
+    line-height: 1.8;
+    text-align: justify;
+}
