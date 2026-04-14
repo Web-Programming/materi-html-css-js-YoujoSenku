@@ -196,7 +196,7 @@
                             </div>
 
                             <!-- Muncul setelah tombol ditekan -->
-                            <div class="col-12" id="pesanSukses" style="display:none;">
+                            <div class="col-12" id="pesanKirim" style="display:none;">
                                 <div class="alert alert-success text-center mb-0">
                                     Pesan berhasil dikirim!
                                 </div>

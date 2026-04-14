@@ -32,6 +32,9 @@ h2 {
 
 /* ABOUT SECTION */
 /* Gambar Profil : Kiri */
+#about {
+    background-color: rgb(228, 233, 228);
+}
 .about-img-wrapper {
     border-radius: 50%;
     box-shadow: 0 8px 40px rgba(45, 122, 45, 0.2);
