@@ -50,4 +50,4 @@ tombolKirim.addEventListener('click', function() {
         document.getElementById('inputEmail').style.borderColor = 'green';
         // Lanjutkan proses kirim...
     }
-});
+});*/
